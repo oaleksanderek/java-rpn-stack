@@ -1,17 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/Bt1ORdF2)
-# Zadanie Stos i RPN
-
-
-| Termin oddania      | Punkty     |
-|---------------------|:-----------|
-|    19.11.2023 23:00 |   10       |
-
---- 
-Przekroczenie terminu o **n** zajęć wiąże się z karą:
-- punkty uzyskane za realizację zadania są dzielone przez **2<sup>n</sup>**.
-
---- 
-
 ## Zadanie 1: Stos
 
 ### 01 Green
@@ -43,3 +29,5 @@ Przygotuj testy jednostkowe dla implementacji RPN.
 ## UWAGA: 
 Staraj się zastosować zasady [SOLID](https://www.samouczekprogramisty.pl/solid-czyli-dobre-praktyki-w-programowaniu-obiektowym/)
 i [Clean Code](https://cleancoders.com/episode/clean-code-episode-1).
+
+## Zadanie zostało wykonane na potrzeby laboratoriów na Uniwersytecie Gdańskim
